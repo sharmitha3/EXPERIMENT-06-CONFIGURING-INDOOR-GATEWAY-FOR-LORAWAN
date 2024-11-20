@@ -83,10 +83,14 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 
 ## OUTPUT 
+![image](https://github.com/user-attachments/assets/901fb6fa-03ec-44d0-af56-4ddc384e5750)
 
+![image](https://github.com/user-attachments/assets/708d4571-0981-40aa-8dcc-d6954e02e2fe)
+
+![image](https://github.com/user-attachments/assets/f4691370-5cdf-4633-94d7-07dc56ac4a27)
 
 
 
 ## Results: 
-
+Thus the experiments is executed successfully.
 
